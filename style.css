@@ -42,6 +42,10 @@ a{
     text-decoration: underline;
     color: white;
 }
+
+a:hover{
+    background-color: gray;
+}
 main{
     font-size: 2.7vw;
     
